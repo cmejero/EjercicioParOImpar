@@ -9,7 +9,7 @@ namespace edu.ejercicioParOImpar.Servicios
     internal interface Interfaz2
     {
         
-        public void numeroParOImpar();
+        public void numeroParOImpar(int numerUsuario);
 
     }
 }
